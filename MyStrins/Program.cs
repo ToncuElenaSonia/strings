@@ -8,10 +8,10 @@ namespace MyStrins
         {
             string myString = "Hello World!";
             for (int i = 0; i < myString.Length; i++)
-            {
-                Console.WriteLine(myString[i]);
+            //{
+            //    Console.WriteLine(myString[i]);
       
-             }
+            // }
             for (int i = 0; i < myString.Length; i++)
             {
                 Console.Write(myString[i]);
